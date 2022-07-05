@@ -1,0 +1,10 @@
+Claustrofobice,Claustrofob,*Claustrofobie,Claustrofomie,Claustroeteromanie
+32,Intre 4 si 10,*7,8,25
+*Danemarca,Puerto Rico,Feroe,Olanda,Islanda
+JC,Titanic,*Calypso,Calipso,Don Juan
+*Anorexie,Anorexicitate,Macaronarie,Cartofiserie,Anxietate
+Inima,Intestinul gros,*Stomacul,Intestinul subtire,Rinichi
+Chineza,Franceza,*Poloneza,Spaniola,Germana
+Marinoport,Debarcader,*Port,Parcare Barca,Ponton
+Roma,Paris,Hong Kong,*Venetia,Verona
+Constantin Gheorghe,*Petrache Poenaru,Tudor Gheorghe,Lucian Blaga,Giuseppe Verdi
